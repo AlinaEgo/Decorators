@@ -1,0 +1,8 @@
+['Date: 2024-03-02 11:42:10.092579', 'Name: "hello_world"', 'Arguments: args: (), kwargs: {}', 'Result: Hello World']
+['Date: 2024-03-02 11:42:10.092579', 'Name: "summator"', 'Arguments: args: (2, 2), kwargs: {}', 'Result: 4']
+['Date: 2024-03-02 11:42:10.093576', 'Name: "div"', 'Arguments: args: (6, 2), kwargs: {}', 'Result: 3.0']
+['Date: 2024-03-02 11:42:10.097037', 'Name: "summator"', "Arguments: args: (4.3,), kwargs: {'b': 2.2}", 'Result: 6.5']
+['Date: 2024-03-02 11:42:10.099378', 'Name: "summator"', "Arguments: args: (), kwargs: {'a': 0, 'b': 0}", 'Result: 0']
+['Date: 2024-03-02 11:42:21.493506', 'Name: "flat_generator"', "Arguments: args: ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), kwargs: {}", 'Result: <generator object flat_generator at 0x000002A9801559A0>']
+['Date: 2024-03-02 11:42:21.494882', 'Name: "flat_generator"', "Arguments: args: ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), kwargs: {}", 'Result: <generator object flat_generator at 0x000002A9801559A0>']
+['Date: 2024-03-02 11:42:21.495878', 'Name: "flat_generator"', "Arguments: args: ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), kwargs: {}", 'Result: <generator object flat_generator at 0x000002A9801559A0>']

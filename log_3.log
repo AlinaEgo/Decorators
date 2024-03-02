@@ -1,0 +1,4 @@
+['Date: 2024-03-02 11:42:16.875920', 'Name: "hello_world"', 'Arguments: args: (), kwargs: {}', 'Result: Hello World']
+['Date: 2024-03-02 11:42:16.876919', 'Name: "summator"', 'Arguments: args: (2, 2), kwargs: {}', 'Result: 4']
+['Date: 2024-03-02 11:42:16.878002', 'Name: "div"', 'Arguments: args: (6, 2), kwargs: {}', 'Result: 3.0']
+['Date: 2024-03-02 11:42:16.879079', 'Name: "summator"', "Arguments: args: (4.3,), kwargs: {'b': 2.2}", 'Result: 6.5']
